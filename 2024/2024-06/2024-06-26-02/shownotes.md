@@ -20,6 +20,6 @@ CREATE TABLE Notes(
 - Take note of the two foriegn keys:
   - contactid: this will be used to link to the contact
   - sponsorid: this will be used to link to the sponsor
-- To see about adding the ComboBox Lookup see notes: [Linked Tables](../2024-06-22/shownotes.sql)
+- To see about adding the ComboBox Lookup see notes: [Linked Tables](../2024-06-22/shownotes.md)
 - Make a lookup for Contact ID
 - Make a lookup for Sponsor ID
